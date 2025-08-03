@@ -19,6 +19,9 @@ A full-stack web application for scheduling doctor appointments with advanced fi
 
 ## Live Demo
 
+<img width="1777" height="867" alt="image" src="https://github.com/user-attachments/assets/7576ff64-812e-4ff3-9e2f-659f04c0a81d" />
+
+
 [prescripto.vercel.app](https://prescripto.vercel.app/)
 
 ## Getting Started
