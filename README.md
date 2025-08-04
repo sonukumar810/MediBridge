@@ -17,7 +17,7 @@ A full-stack web application for scheduling doctor appointments with advanced fi
 - **Backend:** Node.js, Express
 - **Database:** MongoDB
 
-## Live Demo
+##  Demo
 
 <img width="1777" height="867" alt="image" src="https://github.com/user-attachments/assets/7576ff64-812e-4ff3-9e2f-659f04c0a81d" />
 
@@ -39,7 +39,7 @@ A full-stack web application for scheduling doctor appointments with advanced fi
 
 
 
-[prescripto.vercel.app](https://prescripto.vercel.app/)
+
 
 ## Getting Started
 
